@@ -10,5 +10,5 @@ A History of Various Grappling and Ground Fighting Martial Arts
   </header>
   
   <img src="http://madisongoldenknightswrestling.com/wp-content/uploads/2014/03/Take-the-Five.jpg" alt="wrestler suplex" style="width:20px;height:10px;">
-
-
+<p>Grappling techniques can be broadly subdivided into Clinch fighting; Takedowns and Throws; Submission holds and Pinning or Controlling Techniques; and Sweeps, Reversals, Turnovers, and Escapes.</p>
+<img src="http://img.yonhapnews.co.kr/photo/yna/YH/2012/01/17/PYH2012011704160034100_P2.jpg" alt="russian sambo" style="width:20px;height:10px;"> 
